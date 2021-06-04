@@ -1,0 +1,12 @@
+token = "1846027435:AAFDq3QPRQ_Uv_mnhCtgrojKd__hgKq5Xxw"
+support = "@LIQ_invest_support"
+bot_name = "LIQ_INVESTBOT"
+admin1 = 650746371
+admin2 = 956684548
+dollar_rate = 73
+btc_adress = "1FJt44MwcyCPgzDSFxhTqSZwMcSjiWyMU4"
+vuvod = "-1001309883514"
+error_chat = "-1001465513733"
+channel = "https://t.me/LIQ_invest"
+chat = "https://t.me/liq_invest_chat"
+otzyvy = "https://t.me/liq_invest_reviews"
